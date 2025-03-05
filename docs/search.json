@@ -261,15 +261,15 @@
     ]
   },
   {
-    "objectID": "about_bob.html",
-    "href": "about_bob.html",
-    "title": "Robert Godfree",
+    "objectID": "about_nunz.html",
+    "href": "about_nunz.html",
+    "title": "Nunzio Knerr",
     "section": "",
-    "text": "Robert Godfree is an Senior Research Scientist at Australia’s Commonwealth Scientific and Industrial Research Organisation (CSIRO). His current research focuses on measuring and predicting the impact of drought and heatwaves on biodiversity of natural and agricultural ecosystems and on developing new strategies for monitoring environmental change and health. His broader scientific portfolio includes both theoretical and applied approaches to biogeography, environmental change, fire ecology, evolutionary biology, restoration, invasive species, seed bank dynamics, soil fertility and water, plant physiology, polyploidy, competition and population dynamics. He has worked in forest, woodland, grassland, wetland, floodplain and arid ecosystems across Australia and in the USA.\nRecently, he published a book Drought Country which provides a deep dive into the history of drought in Australia over the past three centuries. The book focuses on how recurring cycles of drought have impacted the environmental and cultural landscape of Australia, beginning in the pre-European era and ending in the 2019-2020 “Black Summer’.\nYou can find it here: Drought Country and published articles here: Google Scholar Profile\nEmail: Robert.Godfree@csiro.au",
+    "text": "Working at Australia’s Commonwealth Scientific and Industrial Research Organisation (CSIRO) since 2009, Nunzio’s research bridges cutting‐edge computational methods with field‐based research to understand plant diversity, distribution, and evolution. From investigating grassland community dynamics in the tropical floodplain ecosystems of Kakadu during the 1990s to more recently conducting field work in Uluru and far North Queensland in the 2020s. Nunzio has many years of practical research experience.\nNunzio has collaborated on many large‐scale studies of Australian flora, helping to map bioregions, uncover patterns of phylogenetic endemism, and assess the impacts of invasive species. Publications on groups such as Asteraceae, Acacia, Eucalyptus, Banksia, and various invasive weeds underscore his commitment to safeguarding native ecosystems under threats of climate change and habitat loss.\nNunzio’s work often integrates “big data” approaches, from herbarium records to genomics, providing insights that inform biodiversity conservation at national and global scales. More recently Nunzio has developed advanced coding and software solutions for environmental monitoring, measurement and analysis.\nYou can see published articles here: Google Scholar Profile\nEmail: Nunzio.Knerr@csiro.au",
     "crumbs": [
       "Why",
       "About",
-      "Robert Godfree"
+      "Nunzio Knerr"
     ]
   },
   {
@@ -306,16 +306,37 @@
     ]
   },
   {
-    "objectID": "about_nunz.html",
-    "href": "about_nunz.html",
-    "title": "Nunzio Knerr",
+    "objectID": "about_bob.html",
+    "href": "about_bob.html",
+    "title": "Robert Godfree",
     "section": "",
-    "text": "Working at Australia’s Commonwealth Scientific and Industrial Research Organisation (CSIRO) since 2009, Nunzio’s research bridges cutting‐edge computational methods with field‐based research to understand plant diversity, distribution, and evolution. From investigating grassland community dynamics in the tropical floodplain ecosystems of Kakadu during the 1990s to more recently conducting field work in Uluru and far North Queensland in the 2020s. Nunzio has many years of practical research experience.\nNunzio has collaborated on many large‐scale studies of Australian flora, helping to map bioregions, uncover patterns of phylogenetic endemism, and assess the impacts of invasive species. Publications on groups such as Asteraceae, Acacia, Eucalyptus, Banksia, and various invasive weeds underscore his commitment to safeguarding native ecosystems under threats of climate change and habitat loss.\nNunzio’s work often integrates “big data” approaches, from herbarium records to genomics, providing insights that inform biodiversity conservation at national and global scales. More recently Nunzio has developed advanced coding and software solutions for environmental monitoring, measurement and analysis.\nYou can see published articles here: Google Scholar Profile\nEmail: Nunzio.Knerr@csiro.au",
+    "text": "Robert Godfree is an Senior Research Scientist at Australia’s Commonwealth Scientific and Industrial Research Organisation (CSIRO). His current research focuses on measuring and predicting the impact of drought and heatwaves on biodiversity of natural and agricultural ecosystems and on developing new strategies for monitoring environmental change and health. His broader scientific portfolio includes both theoretical and applied approaches to biogeography, environmental change, fire ecology, evolutionary biology, restoration, invasive species, seed bank dynamics, soil fertility and water, plant physiology, polyploidy, competition and population dynamics. He has worked in forest, woodland, grassland, wetland, floodplain and arid ecosystems across Australia and in the USA.\nRecently, he published a book Drought Country which provides a deep dive into the history of drought in Australia over the past three centuries. The book focuses on how recurring cycles of drought have impacted the environmental and cultural landscape of Australia, beginning in the pre-European era and ending in the 2019-2020 “Black Summer’.\nYou can find it here: Drought Country and published articles here: Google Scholar Profile\nEmail: Robert.Godfree@csiro.au",
     "crumbs": [
       "Why",
       "About",
-      "Nunzio Knerr"
+      "Robert Godfree"
     ]
+  },
+  {
+    "objectID": "acknowledgement.html",
+    "href": "acknowledgement.html",
+    "title": "Acknowledgements",
+    "section": "",
+    "text": "We thank Harriet Rhodes & Natalie Cooper, the handling editor Lorna Hernandez-Santin and the anonymous reviewers who did a fantastic job making suggestions to improve our paper and the pannotator package."
+  },
+  {
+    "objectID": "acknowledgement.html#methods-in-ecology-and-evolution-team",
+    "href": "acknowledgement.html#methods-in-ecology-and-evolution-team",
+    "title": "Acknowledgements",
+    "section": "",
+    "text": "We thank Harriet Rhodes & Natalie Cooper, the handling editor Lorna Hernandez-Santin and the anonymous reviewers who did a fantastic job making suggestions to improve our paper and the pannotator package."
+  },
+  {
+    "objectID": "acknowledgement.html#collaborators",
+    "href": "acknowledgement.html#collaborators",
+    "title": "Acknowledgements",
+    "section": "Collaborators",
+    "text": "Collaborators\n\n\nWe thank Nicholas Macgregor, Malcolm Coulthard (Nyukuti), Michael Cullinen (Tjapiya), Margarita Goumas, Tracey Guest, Sam Merson and Alyssa Roggero from Parks Australia for assistance with collecting data and/or organising logistical field support.\nThe Aṉangu community at Uluṟu-Kata Tjuṯa National Park generously provided access to their traditional lands and information on regional ecology and cultural history."
   },
   {
     "objectID": "annotate.html",
