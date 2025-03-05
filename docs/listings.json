@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/examples/collect/index.html",
+    "items": [
+      "/examples/collect/data_processing/check_install_packages.html",
+      "/examples/collect/data_processing/creating_a_user_gui.html",
+      "/examples/collect/data_processing/renaming_files.html",
+      "/examples/collect/data_processing/distance_between_images.html",
+      "/examples/collect/data_processing/add_overlays.html",
+      "/examples/collect/generate_kmz/create_google_earth_files.html",
+      "/examples/collect/complete/jpegs2kmz.html"
+    ]
+  },
+  {
+    "listing": "/examples/annotate/index.html",
+    "items": [
+      "/examples/annotate/install_pannotator.html"
+    ]
+  },
+  {
+    "listing": "/examples/analyse/index.html",
+    "items": [
+      "/examples/analyse/analyse_examples.html"
+    ]
+  }
+]
